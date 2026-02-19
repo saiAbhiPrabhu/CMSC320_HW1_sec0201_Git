@@ -5,3 +5,7 @@ Answer: Its a version control software that allows us to collaborate with other 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: For business analytics we can use data science to come up with meaningful insights on how a business is doing.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebasing will overwrite the history of all branches that are being merged while Merging preserves the history of each branch as a tree.
