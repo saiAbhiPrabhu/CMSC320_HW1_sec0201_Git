@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: For business analytics we can use data science to come up with meaningful insights on how a business is doing.
